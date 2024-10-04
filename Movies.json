@@ -1,0 +1,32 @@
+[
+  {
+    "MovieId": 101,
+    "Name": "jawan",
+    "Genre": "action",
+    "Year": 2023
+  },
+  {
+    "MovieId": 102,
+    "Name": "pathaan",
+    "Genre": "action",
+    "Year": 2022
+  },
+  {
+    "MovieId": 103,
+    "Name": "entertainment",
+    "Genre": "comedy",
+    "Year": 2014
+  },
+  {
+    "MovieId": 104,
+    "Name": "munjya",
+    "Genre": "horror",
+    "Year": 2020
+  },
+  {
+    "MovieId": 105,
+    "Name": "dunki",
+    "Genre": "drama",
+    "Year": 2011
+  }
+]
